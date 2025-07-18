@@ -1,5 +1,4 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<h1 align="center" style="font-family: 'Poppins', sans-serif; font-weight: 800; color: #5D3FD3; text-shadow: 3px 3px 0 #7E3ACE, 6px 6px 0 rgba(0,0,0,0.1);">
   Jawad Mansoor
 </h1>
 
