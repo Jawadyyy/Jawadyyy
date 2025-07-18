@@ -51,16 +51,13 @@ Currently trying my best to:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
 ### 🏆 Featured Projects
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
 | **LifeLine** 🚑 | Emergency medical assistance app | Flutter, Firebase, Google Maps | [GitHub](https://github.com/Jawadyyy/LifeLine) |
 | **The Wall** 💬 | Real-time chat with animations | Flutter, Firebase, Provider | [GitHub](https://github.com/Jawadyyy/The-Wall-Chat-App) |
-| **Orcary** 🎮 | Live game modules (Client Work) | Flutter, Firebase, Agora | Private |
-| **Tuitionist** 📚 | Education app with Supabase | Flutter, Supabase, REST | Private |
+| **Live** 🚧 | Live streaming platform (Currently Developing) | Flutter, Firebase, Agora SDK | [GitHub](https://github.com/Jawadyyy/Live) |
 
 ---
 
