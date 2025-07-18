@@ -21,12 +21,17 @@
 
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
 
-- 🔭 Currently working on **scalable Flutter applications**
-- 🌱 Learning **advanced state management & animations**
-- 👯 Looking to collaborate on **open-source Flutter projects**
-- 💬 Ask me about **Flutter, Firebase, or UI design**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes**
-- 🏆 Achievements: **Code Air Hackathon Winner (MLSA)**
+I'm a Flutter developer passionate about creating innovative mobile apps that solve real problems. 
+
+- 🚀 Building intuitive, performant apps with clean code
+- 💡 Always experimenting with new technologies
+- ❤️ Love turning ideas into polished products
+- 📱 Obsessed with smooth animations and pixel-perfect UI
+
+Currently trying my best to:
+- Build apps people actually want to use
+- Learn something new every day
+- Contribute to the Flutter community
 
 ---
 
