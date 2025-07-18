@@ -4,13 +4,15 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/Jawadyyy"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=5D3FD3&center=true&vCenter=true&width=435&lines=Flutter+Developer;Firebase%2FSupabase+Expert;UI%2FUX+Enthusiast;Problem+Solver" alt="Typing SVG" /></a>
+  <a href="https://github.com/Jawadyyy">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=500&lines=Senior+Flutter+Developer;Firebase+Architecture+Expert;Supabase+Integration+Specialist;C%2B%2B+Systems+Programmer;Pixel-Perfect+UI%2FUX+Designer;Full-Stack+Mobile+Engineer" alt="Typing SVG" />
+  </a>
 </p>
 
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/Jawadyyy?logo=github&style=for-the-badge&color=blueviolet)](https://github.com/Jawadyyy)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jawadmansoor37@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:www.jawadmansoor37@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jawad-mansoor-b2607329b/)
 
 </div>
