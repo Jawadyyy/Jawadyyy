@@ -8,11 +8,11 @@
 </p>
 
 <div align="center">
-  
+
 [![GitHub followers](https://img.shields.io/github/followers/Jawadyyy?logo=github&style=for-the-badge&color=blueviolet)](https://github.com/Jawadyyy)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jawadmansoor37@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jawad-mansoor-b2607329b/)
+
 </div>
 
 ---
@@ -88,21 +88,6 @@ Currently trying my best to:
 
 ---
 
-### 🤝 Let's Connect
-
-<p align="center">
-  <a href="mailto:jawadmansoor37@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email"/></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter"/></a>
-  <a href="https://wa.me/923157263823"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp"/></a>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jawadyyy&label=Profile%20views&color=0e75b6&style=flat" alt="Jawadyyy" /> 
-</p>
-
-<p align="center">
-  <i>Last updated: July 2025</i> 📅
 </p>
