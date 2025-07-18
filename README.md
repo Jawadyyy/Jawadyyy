@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: 'Poppins', sans-serif; font-weight: 800; color: #5D3FD3; text-shadow: 3px 3px 0 #7E3ACE, 6px 6px 0 rgba(0,0,0,0.1);">
+<h1 align="center" style="font-family: 'Segoe UI', sans-serif; font-weight: 700; background: linear-gradient(90deg, #7E3ACE, #2575FC); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
   Jawad Mansoor
 </h1>
 
