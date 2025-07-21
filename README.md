@@ -95,6 +95,8 @@ Currently trying my best to:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jawadyyy&label=Profile%20views&color=0e75b6&style=flat" alt="Jawadyyy" /> 
+  <a href="https://github.com/Jawadyyy">
+    <img src="https://badges.pufler.dev/visits/Jawadyyy/Jawadyyy?color=7E3ACE&style=flat&label=Profile%20Views" alt="Profile Visits" />
+  </a>
 </p>
 
