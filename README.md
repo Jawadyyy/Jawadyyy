@@ -94,9 +94,3 @@ Currently trying my best to:
 
 ---
 
-<p align="center">
-  <a href="https://github.com/Jawadyyy">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Jawadyyy.Jawadyyy&color=7e3ace" alt="Profile Visits" />
-  </a>
-</p>
-
