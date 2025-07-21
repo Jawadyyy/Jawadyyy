@@ -71,11 +71,9 @@ Currently trying my best to:
   
 </div>
 
-<div align="center">
-  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Jawadyyy&theme=radical&date_format=j%20M%5B%20Y%5D)
-  
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jawadyyy&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
 
 ---
 
