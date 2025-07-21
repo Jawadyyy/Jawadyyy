@@ -96,7 +96,7 @@ Currently trying my best to:
 
 <p align="center">
   <a href="https://github.com/Jawadyyy">
-    <img src="https://badges.pufler.dev/visits/Jawadyyy/Jawadyyy?color=7E3ACE&style=flat&label=Profile%20Views" alt="Profile Visits" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Jawadyyy.Jawadyyy&color=7e3ace" alt="Profile Visits" />
   </a>
 </p>
 
