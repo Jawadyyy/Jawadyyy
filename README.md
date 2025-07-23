@@ -72,7 +72,7 @@ Currently trying my best to:
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jawadyyy&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jawadyyy&theme=radical" alt="Jawadyyy's streak stats" />
 </p>
 
 ---
