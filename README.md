@@ -54,8 +54,8 @@ Currently trying my best to:
 
 ### 🏆 Featured Projects
 
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
 | **LifeLine** 🚑 | Emergency medical assistance app (Launching Soon) | Flutter, Firebase, Google Maps |
 | **The Wall** 💬 | Real-time chat with animations (Side Project) | Flutter, Firebase, Provider  |
 | **Live** 🚧 | Live streaming platform (Currently Developing) | Flutter, Firebase, Agora SDK |
