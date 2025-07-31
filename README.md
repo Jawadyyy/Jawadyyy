@@ -56,9 +56,9 @@ Currently trying my best to:
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **LifeLine** 🚑 | Emergency medical assistance app | Flutter, Firebase, Google Maps | [GitHub](https://github.com/Jawadyyy/LifeLine) |
-| **The Wall** 💬 | Real-time chat with animations | Flutter, Firebase, Provider | [GitHub](https://github.com/Jawadyyy/The-Wall-Chat-App) |
-| **Live** 🚧 | Live streaming platform (Currently Developing) | Flutter, Firebase, Agora SDK | [GitHub](https://github.com/Jawadyyy/Live) |
+| **LifeLine** 🚑 | Emergency medical assistance app (Launching Soon) | Flutter, Firebase, Google Maps |
+| **The Wall** 💬 | Real-time chat with animations (Side Project) | Flutter, Firebase, Provider  |
+| **Live** 🚧 | Live streaming platform (Currently Developing) | Flutter, Firebase, Agora SDK |
 
 ---
 
