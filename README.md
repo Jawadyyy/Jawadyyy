@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Jawadyyy">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=500&lines=Flutter+Developer;Figma+Designer;C%2B%2B+Programmer;Full-Stack+Mobile+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=500&lines=Flutter+Developer;Figma+Designer;C%2B%2B+Programmer;Full-Stack+App+Developer" alt="Typing SVG" />
   </a>
 </p>
 
