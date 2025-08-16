@@ -22,7 +22,7 @@
 
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
 
-I'm a Flutter developer passionate about creating innovative mobile apps that solve real problems. 
+I'm a Flutter developer passionate about creating innovative mobile apps that solve real world problems. 
 
 - 🚀 Building intuitive, performant apps with clean code
 - 💡 Always experimenting with new technologies
