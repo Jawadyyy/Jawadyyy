@@ -30,7 +30,7 @@ I'm a Flutter developer passionate about creating innovative mobile apps that so
 - 📱 Obsessed with smooth animations and pixel-perfect UI
 
 Currently trying my best to:
-- Build apps people actually want to use
+- Build apps that solve real world problems
 - Learn something new every day
 - Contribute to the Flutter community
 
