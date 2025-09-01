@@ -11,72 +11,65 @@
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/Jawadyyy?logo=github&style=for-the-badge&color=blueviolet)](https://github.com/Jawadyyy)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:www.jawadmansoor37@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jawad-mansoor-b2607329b/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:www.jawadmansoor37@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jawad-mansoor-b2607329b/)
 
 </div>
 
 ---
 
-### 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="320" alt="Coding Animation">
 
-I'm a Flutter developer passionate about creating innovative mobile apps that solve real world problems. 
+I’m a **Flutter Developer** passionate about creating apps that **solve real-world problems** with clean, scalable, and elegant solutions.  
 
-- 🚀 Building intuitive, performant apps with clean code
-- 💡 Always experimenting with new technologies
-- ❤️ Love turning ideas into polished products
-- 📱 Obsessed with smooth animations and pixel-perfect UI
-
-Currently trying my best to:
-- Build apps that solve real world problems
-- Learn something new every day
-- Contribute to the Flutter community
+- 🚀 Building intuitive & performant mobile apps  
+- 🎨 Crafting smooth animations & pixel-perfect UI  
+- 💡 Exploring new technologies every day  
+- ❤️ Love turning **ideas into polished products**  
+- 📱 Open to collaboration & contributions in the Flutter community  
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack  
 
-#### Languages
+#### 💻 Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-#### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+#### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
 
-#### Backend & Databases
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+#### 🔗 Backend & Databases
+![Firebase](https://img.shields.io/badge/Firebase-FF6F00?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-FF6F00?style=for-the-badge&logo=rest&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white)
 
-#### Design & Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+#### 🎨 Design & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
 
+## 🚀 Featured Projects  
 
-### 🏆 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **LifeLine** 🚑 | Emergency medical assistance app (Launching Soon) | Flutter, Firebase, Google Maps |
-| **The Wall** 💬 | Real-time chat with animations (Side Project) | Flutter, Firebase, Provider  |
-| **Live** 🚧 | Live streaming platform (Currently Developing) | Flutter, Firebase, Agora SDK |
+| 🚑 **LifeLine** | 💬 **The Wall** | 📺 **Live** |
+|-----------------|-----------------|-------------|
+| Emergency medical assistance app (**Launching Soon**) | Real-time chat with animations (Side Project) | Live streaming platform (In Development) |
+| *Tech:* Flutter, Firebase, Google Maps | *Tech:* Flutter, Firebase, Provider | *Tech:* Flutter, Firebase, Agora SDK |
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics  
 
 <div align="center">
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jawadyyy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawadyyy&layout=compact&langs_count=8&theme=radical"/>
-  
 </div>
 
 <p align="center">
@@ -85,20 +78,16 @@ Currently trying my best to:
 
 ---
 
-<!-- Activity Graph -->
-### ⚡ **Recent Activity**
+## ⚡ Recent Activity  
 
 [![Jawad's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jawadyyy&theme=react-dark&hide_border=true&area=true)](https://github.com/Jawadyyy)
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies  
 
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Jawadyyy&theme=radical&no-frame=true&row=1&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jawadyyy&theme=radical&no-frame=true&row=1&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
-
----
-
