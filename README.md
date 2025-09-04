@@ -26,8 +26,7 @@ I’m a **Flutter Developer** passionate about creating apps that **solve real-w
 
 - 🚀 Building intuitive & performant mobile apps  
 - 🎨 Crafting smooth animations & pixel-perfect UI  
-- 💡 Exploring new technologies every day  
-- ❤️ Love turning **ideas into polished products**  
+- 💡 Exploring new technologies every day
 - 📱 Open to collaboration & contributions in the Flutter community  
 
 ---
