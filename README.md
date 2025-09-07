@@ -59,7 +59,7 @@ I’m a **Flutter Developer** passionate about creating apps that **solve real-w
 | 🚑 **LifeLine** | 💬 **The Wall** | 📺 **Live** |
 |-----------------|-----------------|-------------|
 | Emergency medical assistance app (**Launching Soon**) | Real-time chat with animations (Side Project) | Live streaming platform (In Development) |
-| *Tech:* Flutter, Firebase, Google Maps | *Tech:* Flutter, Firebase, Provider | *Tech:* Flutter, Firebase, Agora SDK |
+| *Tech:* Flutter, Firebase, Google Maps | *Tech:* Flutter, Firebase, Provider | *Tech:* Flutter, Supabase, Agora SDK |
 
 ---
 
