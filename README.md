@@ -1,49 +1,34 @@
-# Hi there, I'm Jawad Mansoor 👋
-
-## Flutter Developer | Mobile App Architect | UI/UX Enthusiast
-
-I'm a passionate Flutter developer focused on building beautiful, performant mobile applications that deliver exceptional user experiences. I believe in writing clean code and creating intuitive interfaces that users love.
-
----
-
 ### 🛠️ Tech Stack
 
-**Mobile Development**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-**Languages**  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Backend & Database**  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Design & Animation**  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Rive](https://img.shields.io/badge/Rive-4B4B4B?style=for-the-badge&logo=rive&logoColor=white)
-
-**Tools & Version Control**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ---
 
 ### 🚀 Featured Projects
 
 #### 🆘 LifeLine - Emergency Response Platform
-**Status:** Launching Soon  
+**Status:** In Development  
 **Tech:** Flutter, Firebase, Google Maps API  
 Emergency response network connecting users with immediate help when they need it most.
-
-#### 🗣️ The Wall - Social Communication Hub
-**Status:** Active Development  
-**Tech:** Flutter, Provider, Custom Animations  
-Real-time communication platform focused on meaningful connections and engaging user experiences.
 
 #### 📡 Live - Streaming Platform
 **Status:** In Development  
@@ -65,32 +50,13 @@ Immersive live streaming application with real-time interaction capabilities.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawadyyy&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" height="170"/>
 </p>
 
----
-
-### 💡 What I'm Currently Working On
-
-- 🔭 Building innovative Flutter applications that solve real-world problems
-- 🌱 Deepening my expertise in advanced Flutter animations and custom UI components
-- 👯 Open to collaborating on exciting mobile app projects
-- 💬 Ask me about Flutter, Dart, mobile app architecture, or UI/UX design
-
----
 
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jawad-mansoor-b2607329b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:www.jawadmansoor37@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jawadyyy)
 
 ---
 
-### ⚡ Fun Facts
-
-- 🎨 I believe code is poetry and UI is art
-- 🚀 Always exploring new technologies and design patterns
-- 📱 Passionate about creating seamless mobile experiences
-- 🌟 Love contributing to open-source projects
-
----
 
 ![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=fff&animation=twinkling)
