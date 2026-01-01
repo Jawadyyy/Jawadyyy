@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gifs/profile.gif" alt="Profile GIF" width="400" />
+  <img src="gifs/profile.gif" alt="Profile GIF" width="1000" />
 </p>
 
 ---
