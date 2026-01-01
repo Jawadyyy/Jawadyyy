@@ -49,14 +49,6 @@ Immersive live streaming application with real-time interaction capabilities.
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jawadyyy&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jawadyyy&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" height="170"/>
-</p>
-
-
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jawad-mansoor-b2607329b/)
