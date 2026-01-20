@@ -6,14 +6,12 @@
 
 ### 📫 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jawad-mansoor-b2607329b/" target="_blank"> 
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin: 0 10px;" /> 
-  </a>
-  <a href="mailto:jawadmansoor37@gmail.com"> 
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" style="margin: 0 10px;" />
-  </a> 
-</p>
+<a href="https://www.linkedin.com/in/jawad-mansoor-b2607329b/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" style="margin-right: 20px;" />
+</a>
+<a href="mailto:jawadmansoor37@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
 ---
 
