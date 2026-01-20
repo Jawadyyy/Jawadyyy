@@ -33,10 +33,7 @@
       <h3 align="center">🆘 LifeLine</h3>
       <p align="center"><em>Emergency Response Platform</em></p>
       <div align="center" style="margin: 15px 0;">
-        <!-- Using available icons -->
-        <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,google" />
-        <!-- Creative solution for Google Maps -->
-        <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+        <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
       </div> 
       <p>📍 Real-time emergency assistance network connecting users with nearby responders and medical services.</p>
       <div align="center" style="margin: 10px 0;">
@@ -52,10 +49,7 @@
       <h3 align="center">📡 LiveStream</h3>
       <p align="center"><em>Immersive Streaming Platform</em></p>
       <div align="center" style="margin: 15px 0;">
-        <!-- Using available icons -->
         <img src="https://skillicons.dev/icons?i=flutter,dart,supabase" />
-        <!-- Creative solution for Agora -->
-        <img src="https://img.shields.io/badge/Agora-FF6C37?style=for-the-badge&logo=agora&logoColor=white" />
       </div>
       <p>🎥 High-performance live streaming with real-time interaction and multi-guest support.</p>
       <div align="center" style="margin: 10px 0;">
