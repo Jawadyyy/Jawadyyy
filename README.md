@@ -6,16 +6,14 @@
 
 ### 📫 Let's Connect
 
-<div style="text-align: center;">
+<center>
   <a href="https://www.linkedin.com/in/jawad-mansoor-b2607329b/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>&nbsp;&nbsp;
   <a href="mailto:jawadmansoor37@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-</div>
-
-
+</center>
 
 ---
 
