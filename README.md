@@ -27,38 +27,73 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🆘 LifeLine</h3>
+    <!-- LifeLine Project -->
+    <td width="50%" valign="top">
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
-        <img src="https://skillicons.dev/icons?i=google" />
-      </div>
-      <p align="center"><em>Emergency Response Platform</em></p>
-      <p>📍 Real-time emergency assistance network connecting users with nearby responders and medical services instantly.</p>
-      <p><strong>Status:</strong> 🔧 In Development</p>
-      <div align="center">
-        <kbd>Emergency Alert</kbd>
-        <kbd>GPS Tracking</kbd>
-        <kbd>Real-time Dispatch</kbd>
+        <h3>🆘 LifeLine</h3>
+        <p><em>Emergency Response Platform</em></p>
+        
+        <div style="margin: 15px 0;">
+          <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+          <br>
+          <img src="https://skillicons.dev/icons?i=google" />
+        </div>
+        
+        <p>📍 Real-time emergency assistance network connecting users with nearby responders and medical services instantly.</p>
+        
+        <div style="margin: 10px 0;">
+          <strong>Status:</strong> <span style="color: #FFA500;">🔧 In Development</span>
+        </div>
+        
+        <div style="margin-top: 15px;">
+          <kbd>Emergency Alert</kbd> <kbd>GPS Tracking</kbd>
+          <br>
+          <kbd>Real-time Dispatch</kbd> <kbd>Medical Info</kbd>
+        </div>
       </div>
     </td>
-    <td width="50%">
-      <h3 align="center">📡 LiveStream</h3>
+    
+    <!-- LiveStream Project -->
+    <td width="50%" valign="top">
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=flutter,dart,supabase" />
-        <img src="https://skillicons.dev/icons?i=figma" />
-      </div>
-      <p align="center"><em>Immersive Streaming Platform</em></p>
-      <p>🎥 High-performance live streaming with real-time interaction, multi-guest support, and audience engagement tools.</p>
-      <p><strong>Status:</strong> 🔧 In Development</p>
-      <div align="center">
-        <kbd>Live Chat</kbd>
-        <kbd>Screen Share</kbd>
-        <kbd>Low Latency</kbd>
+        <h3>📡 LiveStream</h3>
+        <p><em>Immersive Streaming Platform</em></p>
+        
+        <div style="margin: 15px 0;">
+          <img src="https://skillicons.dev/icons?i=flutter,dart,supabase" />
+          <br>
+          <img src="https://skillicons.dev/icons?i=figma" />
+        </div>
+        
+        <p>🎥 High-performance live streaming with real-time interaction, multi-guest support, and audience engagement tools.</p>
+        
+        <div style="margin: 10px 0;">
+          <strong>Status:</strong> <span style="color: #FFA500;">🔧 In Development</span>
+        </div>
+        
+        <div style="margin-top: 15px;">
+          <kbd>Live Chat</kbd> <kbd>Screen Share</kbd>
+          <br>
+          <kbd>Low Latency</kbd> <kbd>Multi-guest</kbd>
+        </div>
       </div>
     </td>
   </tr>
 </table>
+
+<details>
+<summary><b>📂 View More Technologies Used</b></summary>
+
+**LifeLine:**
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,google,github,vscode" />
+</p>
+
+**LiveStream:**
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,supabase,figma,github,vscode" />
+</p>
+</details>
 
 ---
 
