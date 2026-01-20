@@ -4,6 +4,17 @@
 
 ---
 
+### 📫 Let's Connect
+
+<a href="https://www.linkedin.com/in/jawad-mansoor-b2607329b/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="mailto:jawadmansoor37@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+
+---
+
 ### 🛠️ Tech Stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -46,13 +57,6 @@ Immersive live streaming application with real-time interaction capabilities.
 ### 📊 GitHub Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jawadyyy&theme=react-dark&bg_color=0d1117&color=00D4FF&line=00FF41&point=7E3ACE&area=true&hide_border=true)
-
----
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jawad-mansoor-b2607329b/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:www.jawadmansoor37@gmail.com)
 
 ---
 
