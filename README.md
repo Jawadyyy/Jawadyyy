@@ -25,34 +25,46 @@
 
 ### 🚀 Featured Projects
 
+### 🚀 Featured Projects
+
 <table>
   <tr>
     <td width="50%">
       <h3 align="center">🆘 LifeLine</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,googlemaps" />
-      </div>
       <p align="center"><em>Emergency Response Platform</em></p>
-      <p>📍 Real-time emergency assistance network connecting users with nearby responders and medical services instantly.</p>
-      <p><strong>Status:</strong> 🔧 In Development</p>
-      <div align="center">
-        <kbd>Emergency Alert</kbd>
-        <kbd>GPS Tracking</kbd>
-        <kbd>Real-time Dispatch</kbd>
+      <div align="center" style="margin: 15px 0;">
+        <!-- Using available icons -->
+        <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,google" />
+        <!-- Creative solution for Google Maps -->
+        <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+      </div> 
+      <p>📍 Real-time emergency assistance network connecting users with nearby responders and medical services.</p>
+      <div align="center" style="margin: 10px 0;">
+        <strong>Status:</strong> <span style="color: #FFA500;">🔧 In Development</span>
+      </div> 
+      <div align="center" style="margin-top: 15px;">
+        <kbd>🚨 Emergency</kbd>
+        <kbd>📍 GPS</kbd>
+        <kbd>🏥 Medical</kbd>
       </div>
     </td>
     <td width="50%">
       <h3 align="center">📡 LiveStream</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=flutter,dart,supabase,agora" />
-      </div>
       <p align="center"><em>Immersive Streaming Platform</em></p>
-      <p>🎥 High-performance live streaming with real-time interaction, multi-guest support, and audience engagement tools.</p>
-      <p><strong>Status:</strong> 🔧 In Development</p>
-      <div align="center">
-        <kbd>Live Chat</kbd>
-        <kbd>Screen Share</kbd>
-        <kbd>Low Latency</kbd>
+      <div align="center" style="margin: 15px 0;">
+        <!-- Using available icons -->
+        <img src="https://skillicons.dev/icons?i=flutter,dart,supabase" />
+        <!-- Creative solution for Agora -->
+        <img src="https://img.shields.io/badge/Agora-FF6C37?style=for-the-badge&logo=agora&logoColor=white" />
+      </div>
+      <p>🎥 High-performance live streaming with real-time interaction and multi-guest support.</p>
+      <div align="center" style="margin: 10px 0;">
+        <strong>Status:</strong> <span style="color: #FFA500;">🔧 In Development</span>
+      </div>
+      <div align="center" style="margin-top: 15px;">
+        <kbd>🎬 Streaming</kbd>
+        <kbd>💬 Live Chat</kbd>
+        <kbd>⚡ Real-time</kbd>
       </div>
     </td>
   </tr>
