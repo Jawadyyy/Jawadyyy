@@ -44,7 +44,7 @@
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">📡 LiveStream</h3>
+      <h3 align="center">📡 Live</h3>
       <p align="center"><em>Immersive Streaming Platform</em></p>
       <div align="center" style="margin: 15px 0;">
         <img src="https://skillicons.dev/icons?i=flutter,dart,supabase" />
