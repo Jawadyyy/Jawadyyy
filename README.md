@@ -55,12 +55,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jawadyyy&hide_border=true&background=0D0D0D&stroke=FF5F1F&ring=FF5F1F&fire=39FF14&currStreakLabel=FF5F1F&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jawadyyy&bg_color=0D0D0D&color=FF5F1F&line=39FF14&point=FFFFFF&area=true&hide_border=true" />
-
 </div>
 
 ---
-
-<div align="center">
-<sub><code>// obsessed with the intersection of ideas and execution</code></sub>
-</div>
